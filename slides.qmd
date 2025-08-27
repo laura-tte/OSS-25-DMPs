@@ -1,0 +1,129 @@
+---
+title: "Research Data Management plans"
+author: "Laura Meier (University Library)"
+format: 
+    revealjs:
+        theme: default
+        # solarized, serif, night
+        css: style.css
+        logo: images/UB-logo.png
+        footer: "LMU Open Science Summer School 2025"
+
+---
+
+## (Research) Data Management Plan
+
+![Data Management Plan. The Turing Way Community. This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence.DOI: [10.5281/zenodo.4906004](https://doi.org/10.5281/zenodo.4906004)](images/data-management-plan-with-text.jpg)
+
+## What is a Data Management plan?
+
+- Document that outlines how data will be handled during and after a research project
+- Structures data management in a way that it is easier to keep track of it
+
+. . .
+
+![](images/DMP.png)
+
+## Why is a DMP helpful?
+
+:::: {.columns}
+
+::: {.column width="60%"}
+::: {.incremental}
+- Clarifies central aspects of RDM → Structure for and optimization of data management
+- Support for your own good scientific work → Ensures that your data is complete, accurate and trustworthy. 
+- Guidelines for the entire course of the project → "living document“
+:::
+:::
+
+::: {.column width="40%"}
+![[Unfinished work](https://www.monkeyuser.com/2018/unfinished-work/)](images/unfinished-work.png){.r-stretch}
+:::
+
+::::
+
+## Funder requirements {.smaller-table}
+
+| Funder | DMP demanded? | Submission on application? | Content | Updates?  |
+|--------|---------------|----------------------------|---------|----------|
+| European Commission, Horizon Europe            | Yes                               |      Comprehensive plan within the first 6 month of the project   | [Template](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf) | Yes, in case of changes and at the end of the project | 
+| German Research Foundation (DFG)            | Information on the handling of research data                |     Yes | [DFG Guidelines](https://www.dfg.de/en/basics-topics/basics-and-principles-of-funding/research-data) | No |
+| German Federal Ministry of Education and Research (BMBF)                     | Depends on the programme      |      If required, yes | Depending on the programme; [Educational research: Checklist](https://www.forschungsdaten-bildung.de/files/fdbinfo_2.pdf) | Depends on the programme |
+| Volkswagen Stiftung (VW Foundation)     | Yes   | Yes |  Template for a [Base-DMP](https://www.volkswagenstiftung.de/de/faqservice#download_formulare_berichte)    |  No  |
+
+
+## Content of a data management plan
+
+![[Research data life cycle](https://www.fdm-bayern.org/forschungsdatenmanagement/#fd-lebenszyklus) by Jürgen Rohrwild](images/RD-Lifecycle.png)
+
+## Exercise 1
+
+::: {.callout-tip}
+## Task (~10 minutes)
+Imagine you are about to start a new research project and your want to create a data management plan. In small groups, list everything you think should be in this plan — from the moment you collect the first data to the point years later when someone else might want to reuse it.
+
+Think about:
+
+- the kinds of data you’ll produce
+- how and where you’ll store them during the project
+- how you’ll document your data so others can understand them
+- how you’ll protect sensitive information
+- how and where you’ll share or archive them later
+- who is responsible for what
+:::
+
+## Data management tools
+
+::: {.incremental}
+- Software to create data management plans
+- Simplified workflow, allows collaborative work
+- Project management tool for handling research data
+- No repository: You do not upload and store your data in a DMP tool.
+::: 
+
+. . .
+
+Example: [RDMO](https://rdmo.ub.lmu.de/)
+
+![](images/RDMO-logo.png)
+
+
+## RDMO
+
+- Online-Tool to create DMPs (Open Source) 
+- DMPs are stored on local servers (by the LMU)
+
+. . .
+
+Features:
+
+- Use existing DMP templates (called questionnaires)
+- Collaborative Work: Rights- and role management
+- Import and export DMPs
+- Snapshots: Capture different versions of your DMP
+
+## Exercise 2
+
+::: {.callout-tip}
+## Task (~25 minutes)
+Using RDMO, you will start creating your own Data Management Plan — either for your actual research project or for a fictional one you invent in your group.
+
+1. Log in to RDMO: [rdmo.ub.lmu.de](https://rdmo.ub.lmu.de/)
+2.  Create a new project using the **RDMO catalog** 
+3. Work through the RDMO questions, thinking carefully about:
+    - What types of data you will collect or generate?
+    - How you will organize and name files?
+    - Where and how the data will be stored during the project?
+    - How you will ensure backups and data security? 
+:::
+
+## Learn more
+
+- Find more infromationen here: [https://lmu-osc.github.io/FAIR-Data-Management/](https://lmu-osc.github.io/FAIR-Data-Management/)
+- Research Data LMU: [https://fdm.ub.lmu.de/](https://fdm.ub.lmu.de/)
+
+- RDM information: 
+    - First contact point for questions concerning Research Data Management (RDM)
+    - DMP tool, repositories for data publications, DOI registration, advice & training for all LMU members
+    - Contact via [rdm@ub.uni-muenchen.de](mailto:rdm@ub.uni-muenchen.de) or -3560
+
