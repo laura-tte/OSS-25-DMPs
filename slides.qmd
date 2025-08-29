@@ -11,6 +11,19 @@ format:
 
 ---
 
+## Code of conduct
+
+To make the most of our time together, we ask everyone to follow these simple guidelines:
+
+- **Engage actively**: This is not a lecture but an interactive session. Share your thoughts, ideas, and experiences.
+- **Collaborate**: Discuss in pairs or groups. [To Do: Prepare groups?] The goal is to learn together. Helping each other is strongly encouraged!
+- **Discuss the content**: Your insights will help everyone learn.
+- **Ask questions**: If something is unclear, chances are others are wondering the same.
+
+## General information
+
+This content is based on the OSC tutorial for FAIR data management: [https://lmu-osc.github.io/FAIR-Data-Management/](https://lmu-osc.github.io/FAIR-Data-Management/)
+
 ## (Research) Data Management Plan
 
 ![Data Management Plan. The Turing Way Community. This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence.DOI: [10.5281/zenodo.4906004](https://doi.org/10.5281/zenodo.4906004)](images/data-management-plan-with-text.jpg)
