@@ -1,9 +1,8 @@
-# Research Data Management (RDM) plans – LMU Open Science Summer School 2025
+# Research Data Management (RDM) plans 
 
 This repository contains the slides for the **Research Data Management (RDM) plan session** presented during the **[LMU Open Science Summer School 2025](https://lmu-osc.github.io/Open-Science-Summer-School-2025/)**. The slides are built using [Quarto](https://quarto.org/) and are published using [GitHub Pages](https://pages.github.com/).
 
 Author: Laura Meier ([0000-0003-1368-2306](https://orcid.org/0000-0003-1368-2306)), University Library of Ludwig-Maximilians-Universität
-
 
 ---
 
@@ -16,18 +15,15 @@ The presentation covers:
 
 It includes interactive elements and is part of the (self-guided) OSC tutorial for [FAIR Research Data Management](https://lmu-osc.github.io/FAIR-Data-Management/).
 
----
-
 ## Repository Structure
 
-├── slides.qmd # Main Quarto presentation file
-├── slides.html # HTML presentation of the Quarto file
-├── style.css # CSS configuration
-├── images/ # Images
-├── .gitignore 
-└── README.md # This file
-
----
+- slides.qmd # Main Quarto presentation file
+- slides.html # HTML presentation of the Quarto file
+- style.css # CSS configuration
+- images/ # Images
+- .gitignore 
+- LICENSE.md # License information
+- README.md # This file
 
 ## How to Build Locally
 
@@ -46,8 +42,6 @@ quarto render slides.qmd
 ```
 
 4. Open the generated HTML file in your browser
-
----
 
 ## License
 
