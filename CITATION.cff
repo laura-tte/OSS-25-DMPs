@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Meier
+    given-names: Laura
+    orcid: https://orcid.org/0000-0003-1368-2306
+    affiliation:
+    - name: "Ludwig-Maximilians-Universität München"
+title: "Research Data Management (RDM) plans"
+date-released: 2025-09-11

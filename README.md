@@ -23,6 +23,7 @@ It includes interactive elements and is part of the (self-guided) OSC tutorial f
 - images/ # Images
 - .gitignore 
 - LICENSE.md # License information
+- CITATION.cff # Citation information
 - README.md # This file
 
 ## How to Build Locally
