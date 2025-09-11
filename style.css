@@ -1,25 +1,34 @@
-.reveal .slide-logo {
-    height: 70px !important;     
-    width: auto !important;      
-    position: absolute !important;
-    max-height: none !important;   
-    max-width: none !important;   
-    top: 20px;                    
-    right: 40px;                  
-}
-
 .reveal footer {
-  font-size: 1em;
+  font-size: 0.45em !important;
   text-align: center;
 }
 
 .reveal table {
-  font-size: 0.6em;          /* Relativ zur Basisgröße */
+  font-size: 0.6em;         
   line-height: 1.2;
 }
 
 .reveal .smaller-table {
-  transform: scale(0.85);  /* Skaliert die ganze Tabelle */
+  transform: scale(0.9);  
   transform-origin: top left;
 }
+
+.center {
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+
+.smaller {
+  font-size: 0.8em !important;
+}
+
+.smallest {
+  font-size: 0.55em !important;
+}
+
+
+
 
