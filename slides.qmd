@@ -24,33 +24,36 @@ format:
 
 ## Recap: First Simple FAIR Checklist {.center}
 
-::: {.columns .smaller .nonincremental }
-::: {.column width="50%" .nonincremental}
-#### Planning Phase
+::: {.columns .smaller}
+::: {.column width="50%" .nonincremental .smaller}
+#### Planning Phase (Findable + Reusable)
 - [ ] Repository identified
-- [ ] File naming documented  
+- [ ] License selected (CC0/CC-BY)
+- [ ] File naming conventions documented
 - [ ] Folder structure planned
-- [ ] Standards identified
+- [ ] Community standards identified
 
-#### Active Research
-- [ ] README updated monthly
-- [ ] Data dictionary growing
-- [ ] Raw data protected
-- [ ] Versions tracked
+#### Active Research (Interoperable + Accessible)
+- [ ] README maintained with context
+- [ ] Data dictionary created
+- [ ] Metadata captured systematically
+- [ ] Open formats used when possible
+- [ ] Raw data preserved separately
 :::
 
-::: {.column width="50%" .nonincremental}
-#### Pre-Publication
-- [ ] Licenses chosen
-- [ ] Documentation complete
-- [ ] Repository tested
-- [ ] Formats converted
+::: {.column width="50%" .nonincremental .smaller}
+#### Pre-Publication (All FAIR principles)
+- [ ] Documentation complete and clear
+- [ ] Formats standardized for sharing
+- [ ] Data uploaded to repository
+- [ ] Metadata finalized
+- [ ] Access permissions set
 
-#### Publication
-- [ ] DOIs obtained
-- [ ] ORCID linked
-- [ ] DAS included
-- [ ] Links verified
+#### Publication (Findable + Accessible)
+- [ ] DOI assigned and verified
+- [ ] ORCID profile updated
+- [ ] Data Availability Statement (DAS) written
+- [ ] All links functional
 :::
 :::
 
@@ -84,6 +87,16 @@ The session is mixed with small exercises and leaves time for you to work on you
 ![](images/Particify.png)
 
 [https://partici.fi/93557178](https://partici.fi/93557178)
+
+::: {.fragment .smallest}
+Throughout the session, the Q&A and chat are open for any questions or comments.
+:::
+
+. . .
+
+:::{.callout-tip title="Participation Options" .smaller}
+Use an **alias name**, your **real name**, or **abstain** for polls/quizzes in Particify.
+::: 
 
 # Part I: How to plan Data Management? {.section-title}
 
@@ -139,7 +152,7 @@ The session is mixed with small exercises and leaves time for you to work on you
 
 ::: {.left .callout-note icon=false}
 ## 🛠️ Task (~5 minutes)
-Imagine you are about to start a new research project and your want to create a Data Management plan. In small groups, think about everything that should be covered in this plan — consider the specifics of your research discipline.
+Imagine you are about to start a new research project. For that you will create a Data Management plan that should cover all data related aspects of your project. In small groups, brainstorm what should be included in this plan - taking into account the specifics of your research discipline.
 :::
 
 ![[Research data life cycle](https://www.fdm-bayern.org/forschungsdatenmanagement/#fd-lebenszyklus) by Jürgen Rohrwild](images/RD-Lifecycle.png)
@@ -158,8 +171,8 @@ Imagine you are about to start a new research project and your want to create a 
 
 ::: {.column width="70%"}
 ::: {.incremental}
-- Clarifies central aspects of RDM → Structure for and optimization of Data Management
-- Support for your own good scientific work → Ensures that your data is complete, accurate, trustworthy and FAIR
+- Clarifies central aspects of RDM → structure for and optimization of Data Management
+- Support for your own good scientific work → ensures that your data is complete, accurate, trustworthy and FAIR
 - Data guidelines for the entire course of the project → "living document“
 :::
 :::
@@ -229,14 +242,23 @@ Features:
 - Import and export DMPs → polished, funder-ready DMP
 - Snapshots: Capture different versions of your DMP
 
+## Let's explore RDMO together {.center .smaller .nonincremental}
+
+::: {.fragment .img}
+[![](images/RDMO-LMU.png)](https://rdmo.ub.lmu.de/)
+:::
+
+[https://rdmo.ub.lmu.de/](https://rdmo.ub.lmu.de/)
+
+
 ## Now, it's your turn...
 
 ::: {.callout-note icon=false}
 ## 🛠️ Task (~20 minutes)
-Using RDMO, you will start creating your own Data Management plan — either for your actual research project or for a fictional one you invent in your group.
+Use RDMO to start creating a Data Management plan — either for your own research project or for a fictional project you design together in your group.
 
 1. Log in to RDMO: [rdmo.ub.lmu.de](https://rdmo.ub.lmu.de/)
-2. Create a new project using the **European Research Council (ERC)** catalog
+2. Create a new project using the **European Research Council (ERC)** catalog.
 3. Work through the questions, thinking carefully about:
     - What types of data you will collect or generate?
     - Which file formats will be used?

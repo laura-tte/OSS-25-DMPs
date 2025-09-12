@@ -29,6 +29,11 @@
   font-size: 0.55em !important;
 }
 
+.img {
+  margin: 0 auto;
+  max-width: 90%;
+  height: auto;
+}
 
 
 
