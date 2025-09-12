@@ -13,7 +13,7 @@ The presentation covers:
 - Motivation to create a Data Management plan
 - Tools and resources for creating effective DMPs
 
-It includes interactive elements and is part of the (self-guided) OSC tutorial for [FAIR Research Data Management](https://lmu-osc.github.io/FAIR-Data-Management/).
+It includes interactive elements and is based on the (self-guided) OSC tutorial for [FAIR Research Data Management](https://lmu-osc.github.io/FAIR-Data-Management/).
 
 ## Repository Structure
 
@@ -42,7 +42,7 @@ cd OSS-25-DMPs
 quarto render slides.qmd
 ```
 
-4. Open the generated HTML file in your browser
+4. Open the generated HTML file in your browser.
 
 ## License
 
