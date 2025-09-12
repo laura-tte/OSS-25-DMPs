@@ -1,0 +1,13 @@
+project:
+  type: website
+  output-dir: slides_files
+
+execute:
+  freeze: auto
+
+website:
+  title: "Research Data Management (RDM) plans" 
+  navbar:
+    left:
+      - href: slides.html
+        text: "Slides"
