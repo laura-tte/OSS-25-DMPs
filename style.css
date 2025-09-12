@@ -1,0 +1,39 @@
+.reveal footer {
+  font-size: 0.45em !important;
+  text-align: center;
+}
+
+.reveal table {
+  font-size: 0.6em;         
+  line-height: 1.2;
+}
+
+.reveal .smaller-table {
+  transform: scale(0.9);  
+  transform-origin: top left;
+}
+
+.center {
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+
+.smaller {
+  font-size: 0.8em !important;
+}
+
+.smallest {
+  font-size: 0.55em !important;
+}
+
+.img {
+  margin: 0 auto;
+  max-width: 90%;
+  height: auto;
+}
+
+
+
