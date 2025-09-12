@@ -31,7 +31,7 @@ It includes interactive elements and is based on the (self-guided) OSC tutorial 
 
 The slides are published via **GitHub Pages** and can be accessed here:  
 
-[View Presentation](https://laura-tte.github.io/OSS-25-DMPs/)
+[View Presentation](https://laura-tte.github.io/OSS-25-DMPs/slides.html/)
 
 ## How to Build Locally
 
