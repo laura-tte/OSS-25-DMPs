@@ -21,10 +21,17 @@ It includes interactive elements and is based on the (self-guided) OSC tutorial 
 - slides.html # HTML presentation of the Quarto file
 - style.css # CSS configuration
 - images/ # Images
+- .github/workflows # CI to update website automatically
 - .gitignore 
 - LICENSE.md # License information
 - CITATION.cff # Citation information
 - README.md # This file
+
+## How to View the Slides
+
+The slides are published via **GitHub Pages** and can be accessed here:  
+
+[View Presentation](https://laura-tte.github.io/OSS-25-DMPs/)
 
 ## How to Build Locally
 
