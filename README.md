@@ -15,6 +15,27 @@ The presentation covers:
 
 It includes interactive elements and is based on the (self-guided) OSC tutorial for [FAIR Research Data Management](https://lmu-osc.github.io/FAIR-Data-Management/).
 
+## Workshop Goals
+
+By the end of this session, participants will:
+- Define what a Data Management Plan (DMP) is and explain its purpose
+- Identify the key components typically included in a DMP
+- Apply funder requirements when considering their own DMP
+- Begin drafting their own DMP using RDMO
+
+## Workshop Timeline
+
+**Total Duration**: 1 hour (60 minutes)
+
+| Time | Duration | Section | Content & Activities | Type |
+|------|----------|---------|---------------------|------|
+| 00:00 | 5 min | **Introduction** | Connection to [FAIR session](https://github.com/ree-gupta/osss-fair-rdm/tree/main): FAIR checklist, today's topics, introduce Particify  | Presentation |
+| 00:5 | 10 min | **Part I: How to plan Data Management?** | DMP intro, components of a DMP | Presentation + Groupwork (https://partici.fi/93557178) |
+| 00:15 | 10 min | **Part II: Why bother planning your Data Management?** | Advantages of a DMP, Funder requirements, Improve answer for DFG checklist | Presentation + Group work (https://partici.fi/93557178) |
+| 00:25 | 30 min | **Part III: Tools that support you in planning** | DMP tools, Introduce RDMO, Create a DMP with RDMO | Presentation + Live Demo + Time to create a DMP|
+| 00:55 | 5 min | **Wrap-Up** | University library: RDM services, recommend self-guided tutorial | Presentation |
+
+
 ## Repository Structure
 
 - slides.qmd # Main Quarto presentation file
