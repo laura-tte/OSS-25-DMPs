@@ -179,6 +179,10 @@ Visit [partici.fi/93557178](https://partici.fi/93557178) to participate.
 :::
 :::
 
+## DMP keywords {.center}
+
+![](images/word-cloud.png)
+
 # Part II: Why bother planning your Data Management? {.section-title}
 
 ## Avoid worst-case scenarios {.smaller}
