@@ -32,7 +32,7 @@
     "href": "slides.html#qa-and-interactive-elements-particify",
     "title": "Research Data Management (RDM) plans",
     "section": "Q&A and interactive elements: Particify",
-    "text": "Q&A and interactive elements: Particify\n\nhttps://partici.fi/93557178\n\nThroughout the session, the Q&A and chat are open for any questions or comments.\n\n\n\n\n\n\n\n\n\nParticipation Options\n\n\nUse an alias name, your real name, or abstain for polls/quizzes in Particify."
+    "text": "Q&A and interactive elements: Particify\n\n\n\n\n\nJoin the interactive session:\npartici.fi/93557178\n\nWe’ll use this for collaborative activities and Q&A throughout the workshop.\n\n\n\n\n\n\n\n\n\nParticipation Options\n\n\nUse an alias name, your real name, or abstain for polls/quizzes in Particify."
   },
   {
     "objectID": "slides.html#what-is-a-data-management-plan",
@@ -53,7 +53,7 @@
     "href": "slides.html#what-belongs-in-your-dmp",
     "title": "Research Data Management (RDM) plans",
     "section": "What belongs in your DMP?",
-    "text": "What belongs in your DMP?\n\n\n\n\n🛠️ Task (~5 minutes)\n\n\nImagine you are about to start a new research project. For that you will create a Data Management plan that should cover all data related aspects of your project. In small groups, brainstorm what should be included in this plan - taking into account the specifics of your research discipline.\n\n\n\n\n\nResearch data life cycle by Jürgen Rohrwild"
+    "text": "What belongs in your DMP?\n\n\n\n\n\n\n🛠️ Task (~5 minutes)\n\n\nImagine you are about to start a new research project. For that you will create a Data Management plan that should cover all data related aspects of your project. In small groups, brainstorm what should be included in this plan - taking into account the specifics of your research discipline.\n\n\n\n\n\n\n\n\nResearch data life cycle by Jürgen Rohrwild\n\n\n\n\n\nVisit partici.fi/93557178 to participate."
   },
   {
     "objectID": "slides.html#avoid-worst-case-scenarios",
@@ -74,14 +74,14 @@
     "href": "slides.html#funder-requirements",
     "title": "Research Data Management (RDM) plans",
     "section": "Funder requirements",
-    "text": "Funder requirements\n\n\n\nFunder\nDMP demanded?\nSubmission on application?\nContent\nUpdates?\n\n\n\n\nEuropean Commission, Horizon Europe\nYes\nComprehensive plan within the first 6 month of the project\nTemplate\nYes, in case of changes and at the end of the project\n\n\nGerman Research Foundation (DFG)\nInformation on the handling of research data\nYes\nDFG Guidelines, DFG Checklist\nNo\n\n\nGerman Federal Ministry of Education and Research (BMBF)\nDepends on the programme\nIf required, yes\nDepending on the programme; Educational research: Checklist\nDepends on the programme\n\n\nVolkswagen Stiftung (VW Foundation)\nYes\nYes\nTemplate for a Base-DMP\nNo\n\n\n\n\nBiernacka, K., u. a. Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement. 5, Zenodo, 2023, https://doi.org/10.5281/zenodo.10122153"
+    "text": "Funder requirements\n\n\n\nFunder\nDMP demanded?\nSubmission on application?\nContent\nUpdates?\n\n\n\n\nEuropean Commission, Horizon Europe\nYes\nComprehensive plan within the first 6 month of the project\nTemplate\nYes, in case of changes and at the end of the project\n\n\nGerman Research Foundation (DFG)\nInformation on the handling of research data\nYes\nDFG Guidelines, DFG Checklist\nNo\n\n\nGerman Federal Ministry of Education and Research (BMBF)\nDepends on the programme\nIf required, yes\nDepending on the programme; Educational research: Checklist\nDepends on the programme\n\n\nVolkswagen Stiftung (VW Foundation)\nYes\nYes\nTemplate for a Base-DMP\nNo\n\n\n\n\nBiernacka, K., et al. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5). Zenodo. https://doi.org/10.5281/zenodo.10122153"
   },
   {
     "objectID": "slides.html#room-for-improvement",
     "href": "slides.html#room-for-improvement",
     "title": "Research Data Management (RDM) plans",
     "section": "Room for Improvement?",
-    "text": "Room for Improvement?\n\n\n\n\n🛠️ Task (~5 minutes)\n\n\nDFG Checklist, section 1: Data description  How does your project generate new data? Is existing data reused? Which data types (in terms of data formats like image data, text data or measurement data) arise in your project and in what way are they further processed? To what extent do these arise or what is the anticipated data volume?\nGiven answer in a DMP: “The sample data is recorded and organized with specific software. One to three GB of data is generated.”\nNow it is your turn: Is there anything to improve? Is there anything missing in this answer?"
+    "text": "Room for Improvement?\n\n\n\n\n\n\n🛠️ Task (~5 minutes)\n\n\nDFG Checklist, section 1: Data description  How does your project generate new data? Is existing data reused? Which data types (in terms of data formats like image data, text data or measurement data) arise in your project and in what way are they further processed? To what extent do these arise or what is the anticipated data volume?\nGiven answer in a DMP: “The sample data is recorded and organized with specific software. One to three GB of data is generated.”\nNow it is your turn: Is there anything to improve? Is there anything missing in this answer?\n\n\n\n\n\n\nVisit partici.fi/93557178 to participate."
   },
   {
     "objectID": "slides.html#data-management-plan-tools",
@@ -130,7 +130,7 @@
     "href": "slides.html#optional-follow-up",
     "title": "Research Data Management (RDM) plans",
     "section": "OPTIONAL Follow-Up",
-    "text": "OPTIONAL Follow-Up\nThe content of this session is part of the (self-guided) OSC tutorial for FAIR Research Data Management.\nYou can use it to review today’s material and access some questions and example answers from a DMP."
+    "text": "OPTIONAL Follow-Up\nThe content of this session is part of the (self-guided) tutorial for FAIR Research Data Management.1\nYou can use it to review today’s material and access some questions and example answers from a DMP.\n\nKleemeyer, M., Leiminger, L., Meier, L. & Walter, D. (2024). FAIR Research Data Management Tutorial. https://lmu-osc.github.io/FAIR-Data-Management/"
   },
   {
     "objectID": "slides.html#thank-you-questions",
