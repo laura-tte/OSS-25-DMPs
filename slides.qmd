@@ -22,6 +22,11 @@ format:
 
 ![](images/FAIR-RDM-session.png)
 
+::: {.callout-tip .smaller}
+#### Related Session Alert
+Tuesday 16th September, 10:00 - 11:45: FAIR research data management ([slides](https://osf.io/qjtec)) 
+:::
+
 ## Recap: First Simple FAIR Checklist {.center}
 
 ::: {.columns .smaller}
@@ -179,7 +184,7 @@ Visit [partici.fi/93557178](https://partici.fi/93557178) to participate.
 :::
 :::
 
-## DMP keywords {.center}
+## DMP keywords {.center .img}
 
 ![](images/word-cloud-particify.png)
 
@@ -324,13 +329,12 @@ Use RDMO to start creating a Data Management plan — either for your own resear
 
 ## OPTIONAL Follow-Up {.smaller}
 
-The content of this session is part of the (self-guided) tutorial for [FAIR Research Data Management](https://lmu-osc.github.io/FAIR-Data-Management/).[^1]
+The content of this session is part of the (self-guided) tutorial for [FAIR Research Data Management](https://lmu-osc.github.io/FAIR-Data-Management/).^[Kleemeyer, M., Leiminger, L., Meier, L. & Walter, D. (2024). FAIR Research Data Management Tutorial. [https://lmu-osc.github.io/FAIR-Data-Management/](https://lmu-osc.github.io/FAIR-Data-Management/)]
 
 You can use it to review today’s material and access some questions and example answers from a DMP.
 
-![](images/FAIR-data-management-Workshop-DMP.png){width="90%"}
+![](images/FAIR-data-management-Workshop-DMP.png){width="80%" align=center} 
 
-[^1]: **Kleemeyer, M., Leiminger, L., Meier, L. & Walter, D. (2024).** FAIR Research Data Management Tutorial. [https://lmu-osc.github.io/FAIR-Data-Management/](https://lmu-osc.github.io/FAIR-Data-Management/)
 
 ## Thank You! Questions? {.section-title .center}
 
