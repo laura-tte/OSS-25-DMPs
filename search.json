@@ -18,7 +18,7 @@
     "href": "slides.html#todays-journey",
     "title": "Research Data Management (RDM) plans",
     "section": "Today’s Journey",
-    "text": "Today’s Journey\n\nMastering FAIR Research Data Management…\n\n\n… with the help of Data Management plans (DMP)"
+    "text": "Today’s Journey\n\nMastering FAIR Research Data Management…\n\n\n…with the help of Data Management plans (DMP)"
   },
   {
     "objectID": "slides.html#what-well-cover",
@@ -28,11 +28,11 @@
     "text": "What we’ll cover\n\nHow to plan Data Management?\nWhy bother planning your Data Management?\nTools that support you in planning\n\n\n\n\n\n🛠️ Tasks\n\n\nThe session is mixed with small exercises and leaves time for you to work on your own Data Management plan.\nEngage actively: Share your thoughts, ideas, and experiences. Your insights will help everyone learn."
   },
   {
-    "objectID": "slides.html#qa-and-interactive-elements-particify",
-    "href": "slides.html#qa-and-interactive-elements-particify",
+    "objectID": "slides.html#interactive-elements-particify",
+    "href": "slides.html#interactive-elements-particify",
     "title": "Research Data Management (RDM) plans",
-    "section": "Q&A and interactive elements: Particify",
-    "text": "Q&A and interactive elements: Particify\n\n\n\n\n\nJoin the interactive session:\npartici.fi/93557178\n\nWe’ll use this for collaborative activities and Q&A throughout the workshop.\n\n\n\n\n\n\n\n\n\nParticipation Options\n\n\nUse an alias name, your real name, or abstain for polls/quizzes in Particify."
+    "section": "Interactive elements: Particify",
+    "text": "Interactive elements: Particify\n\n\n\n\n\nJoin the interactive session:\npartici.fi/93557178\n\nWe’ll use this for collaborative activities throughout the workshop.\n\n\n\n\n\n\n\n\n\nParticipation Options\n\n\nUse an alias name, your real name, or abstain for polls/quizzes in Particify."
   },
   {
     "objectID": "slides.html#what-is-a-data-management-plan",
@@ -88,7 +88,7 @@
     "href": "slides.html#room-for-improvement",
     "title": "Research Data Management (RDM) plans",
     "section": "Room for Improvement?",
-    "text": "Room for Improvement?\n\n\n\n\n\n\n🛠️ Task (~5 minutes)\n\n\nDFG Checklist, section 1: Data description  How does your project generate new data? Is existing data reused? Which data types (in terms of data formats like image data, text data or measurement data) arise in your project and in what way are they further processed? To what extent do these arise or what is the anticipated data volume?\nGiven answer in a DMP: “The sample data is recorded and organized with specific software. One to three GB of data is generated.”\nNow it is your turn: Is there anything to improve? Is there anything missing in this answer?\n\n\n\n\n\n\nVisit partici.fi/93557178 to participate."
+    "text": "Room for Improvement?\n\n\n\n\n\n\n🛠️ Task (~5 minutes)\n\n\n\nDFG Checklist, section 1: Data description  How does your project generate new data? Is existing data reused? Which data types (in terms of data formats like image data, text data or measurement data) arise in your project and in what way are they further processed? To what extent do these arise or what is the anticipated data volume?\nGiven answer in a DMP: “The sample data is recorded and organized with specific software. One to three GB of data is generated.”\nNow it is your turn: Is there anything to improve? Is there anything missing in this answer?\n\n\n\n\n\n\n\nVisit partici.fi/93557178 to participate."
   },
   {
     "objectID": "slides.html#data-management-plan-tools",
@@ -130,7 +130,7 @@
     "href": "slides.html#university-library-rdm-services",
     "title": "Research Data Management (RDM) plans",
     "section": "University library: RDM services",
-    "text": "University library: RDM services\n\nResearch Data LMU: https://fdm.ub.lmu.de/\nRDM information:\n\nFirst contact point for questions concerning Research Data Management (RDM)\nDMP tool, repositories for data publications, DOI registration, advice & training for all LMU members\nContact via rdm@ub.uni-muenchen.de or -3560"
+    "text": "University library: RDM services\n\nRDM information:\n\nFirst contact point for questions concerning Research Data Management (RDM)\nDMP tool, repositories for data publications, DOI registration, advice & training for all LMU members\nContact via rdm@ub.uni-muenchen.de or -3560\n\nResearch Data LMU: https://fdm.ub.lmu.de/"
   },
   {
     "objectID": "slides.html#optional-follow-up",
