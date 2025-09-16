@@ -1,7 +1,7 @@
 ---
 title: "Research Data Management (RDM) plans"
 subtitle: "A Hands-on, Actionable Workshop for Researchers"
-author: "Laura Meier"
+author: "Laura Meier, Reema Gupta & Sara Lil Middleton"
 format: 
     revealjs:
         theme: default
@@ -65,7 +65,7 @@ format:
 
 . . .
 
-*... with the help of Data Management plans (DMP)*
+*...with the help of Data Management plans (DMP)*
 
 ## What we'll cover
 
@@ -82,7 +82,7 @@ The session is mixed with **small exercises** and leaves time for you to **work 
 **Engage actively**: Share your thoughts, ideas, and experiences. Your insights will help everyone learn.
 :::
 
-## Q&A and interactive elements: Particify  {.center}
+## Interactive elements: Particify  {.center}
 
 :::: {.columns .smaller}
 ::: {.column width="50%"}
@@ -98,7 +98,7 @@ The session is mixed with **small exercises** and leaves time for you to **work 
 
 <br>
 
-We'll use this for collaborative activities and Q&A throughout the workshop. 
+We'll use this for collaborative activities throughout the workshop. 
 :::
 ::::
 
@@ -181,7 +181,7 @@ Visit [partici.fi/93557178](https://partici.fi/93557178) to participate.
 
 ## DMP keywords {.center}
 
-![](images/word-cloud.png)
+![](images/word-cloud-particify.png)
 
 # Part II: Why bother planning your Data Management? {.section-title}
 
@@ -227,13 +227,13 @@ Visit [partici.fi/93557178](https://partici.fi/93557178) to participate.
 ::: {.column width="70%"}
 ::: {.left .callout-note icon=false}
 ## 🛠️ Task (~5 minutes)
-**[DFG Checklist, section 1: Data description](https://www.dfg.de/resource/blob/174736/forschungsdaten-checkliste-en.pdf)** <br/>
+- **[DFG Checklist, section 1: Data description](https://www.dfg.de/resource/blob/174736/forschungsdaten-checkliste-en.pdf)** <br/>
 How does your project generate new data? Is existing data reused? Which data types (in terms of data formats like image data, text data or measurement data) arise in your project and in what way are they further processed? To what extent do these arise or what is the anticipated data volume?
 
-**Given answer in a DMP**: 
+- **Given answer in a DMP**: 
 *“The sample data is recorded and organized with specific software. One to three GB of data is generated.”*
 
-**Now it is your turn: Is there anything to improve? Is there anything missing in this answer?**
+- **Now it is your turn: Is there anything to improve? Is there anything missing in this answer?**
 :::
 :::
 
@@ -315,12 +315,12 @@ Use RDMO to start creating a Data Management plan — either for your own resear
 
 ## University library: RDM services
 
-- Research Data LMU: [https://fdm.ub.lmu.de/](https://fdm.ub.lmu.de/)
-
 - RDM information: 
     - First contact point for questions concerning Research Data Management (RDM)
     - DMP tool, repositories for data publications, DOI registration, advice & training for all LMU members
     - Contact via [rdm@ub.uni-muenchen.de](mailto:rdm@ub.uni-muenchen.de) or -3560
+
+- Research Data LMU: [https://fdm.ub.lmu.de/](https://fdm.ub.lmu.de/)
 
 ## OPTIONAL Follow-Up {.smaller}
 
